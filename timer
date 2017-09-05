@@ -1,0 +1,6 @@
+ruby main.rb $1
+while :
+do
+  sl -e
+  sleep 1
+done
